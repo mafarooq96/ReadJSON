@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ReadJSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReadJSON_jar</output-path>
+    <root id="archive" name="ReadJSON.jar">
+      <element id="module-output" name="ReadJSON" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.7/gson-2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
